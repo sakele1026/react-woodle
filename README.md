@@ -107,6 +107,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 ### Other languages
 
 - [Arwordle](https://arwordle.netlify.app/): Arabic
+- [BerSüz](https://bersuz.vercel.app/): Tatar
 - [Boludle](https://www.boludle.com/): Argentinian
 - [Gerdle](https://gerdle.vext.co.uk/): Cornish (Kernowek)
 - [Ijambo](https://www.ijambo.app/): Kirundi (spoken in Burundi)
