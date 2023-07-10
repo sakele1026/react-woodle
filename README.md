@@ -162,6 +162,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
 - [Buildly](https://buildly.procurepro.co/): Construction themed
+- [Canuckle](https://canuckle.net/): Canadian themed Wordle
 - [Crosswordle](https://crosswordle.mekoppe.com/): Crossword mashup
 - [DALL-e-dle](https://dall-e-dle.vercel.app/): Provides a DALL-E generated image of the word as a clue
 - [Discwordle](https://discwordle.marcschulder.de/): Terry Pratchett's Discworld
@@ -173,10 +174,12 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Mahjong Handle](https://mahjong-handle.update.sh/): Mahjong Hands
 - [Filmle](https://filmle.now.sh/): Movie titles
 - [Fletcherdle](https://www.fletcherdle.com/): American singer-songwriter FLETCHER
+- [Foodle](https://foodle.io/): Food themed Wordle
 - [Lyricle](https://www.lyricle.app/): Lyrics
 - [Midnightle](https://midnightle.flra.eu): Taylor Swift's Midnights album
 - [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
+- [Octordle Unlimited](https://dailypuzzles.com/games/octordle-unlimited): Octordle Unlimited
 - [Pawnle](https://pawnle.vercel.app/): Parks and Recreation
 - [Poker Handle](https://kikychow.github.io/poker-wordle/): Poker
 - [Poker Handle 2](https://poker-handle2.vercel.app/): Poker
@@ -188,11 +191,12 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Spotle](https://spotlegame.co.uk): Wordle with an extra block, the incognito block
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
 - [Tacticle](https://tacticle.co/): Chess puzzles
-- [Taylordle](https://www.taylordle.com/): Taylor Swift
+- [Taylordle](https://www.taylordle.org/): Taylor Swift
 - [Trekle](https://treklegame.com): Star Trek
 - [Turdle](https://turdle.xyz): Make the turtle jump!
 - [Weedel](https://meetmeinouter.space/wordle/): Video game characters
 - [Wordle.cl](https://www.wordle.cl): Chilean modisms, cities, places
+- [Wordle Unlimited](https://wordleunlimited.co/): Wordle Unlimited
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
 - [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters.
 - [香港麻雀 糊 dle](https://hkwudle.vercel.app/): Mahjong hands under Hong Kong rules
