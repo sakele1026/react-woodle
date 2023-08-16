@@ -2,6 +2,7 @@
   "endOfLine": "auto",
   "singleQuote": true,
   "semi": false,
+  "trailingComma": "es5",
   "importOrder": [
     "^(.*).css",
     "<THIRD_PARTY_MODULES>",
@@ -16,6 +17,5 @@
   "plugins": [
     "@trivago/prettier-plugin-sort-imports",
     "prettier-plugin-tailwindcss"
-  ],
-  "pluginSearchDirs": false
+  ]
 }
