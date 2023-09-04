@@ -64,7 +64,7 @@
     "lint-staged": "^13.2.2",
     "postcss": "^8.4.5",
     "prettier": "^3.0.2",
-    "prettier-plugin-tailwindcss": "^0.5.3",
+    "prettier-plugin-tailwindcss": "^0.5.4",
     "tailwindcss": "^3.0.12"
   },
   "lint-staged": {
