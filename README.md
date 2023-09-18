@@ -161,6 +161,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [꼬들 - 한국어](https://belorin.github.io/): Korean
 - [한글 풀어쓰기 5자](https://nakosung.github.io/wordle/): Korean
 - [ไทย](https://buddhistuniversity.net/wordle-thai/): Thai
+- [சொல்லாடல்](https://omtamil.com/soladle/): Tamil
 
 ### Fun themes
 
